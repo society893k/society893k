@@ -46,7 +46,7 @@ const Diego = {
 
 ### 🔭 En qué trabajo ahora
 
-- 🌐 Aplicaciones web con **React / Next.js** y **TypeScript**
+- 🌐 Aplicaciones web con **React / Next.js** / **TypeScript y JavaScript**
 - 📱 Apps móviles multiplataforma con **React Native / Flutter**
 - ⚙️ APIs REST con **Node.js** y bases de datos **SQL / NoSQL**
 - ☁️ Despliegue continuo con **Docker** y **GitHub Actions**
