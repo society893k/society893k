@@ -114,17 +114,9 @@ const diego = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48"/>
 </p>
 
-
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=society893k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=society893k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=society893k&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
@@ -150,8 +142,6 @@ const diego = {
 
 <div align="center">
 
-<a href="https://github.com/society893k/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=society893k&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" /></a>
-<a href="https://github.com/society893k/tienda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=society893k&repo=tienda&theme=tokyonight&hide_border=true" alt="Tienda" /></a>
 
 </div>
 
@@ -163,7 +153,7 @@ const diego = {
 - 📲 **Apps móviles** para Android e iOS con una sola base de código
 - 🔗 **APIs e integraciones** con servicios de terceros y pasarelas de pago
 - ♻️ **Mejora y refactorización** de proyectos existentes
--
+
 
 ---
 
@@ -181,6 +171,16 @@ const diego = {
 ⭐ **Si algún proyecto te resulta útil, ¡déjame una estrella y compártelo!**
 
 <br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQweTRodTh5OHZ3c250MTlkMXRscGVicXgzbDNyMW5mNjhtZ2xreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Pie de página" width="100%" />
+
+
+**Hecho por Diego con mucho ☕☕**
+
+
+
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="Pie de página" width="100%" />
 
