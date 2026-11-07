@@ -36,9 +36,9 @@
 ```js
 const Diego = {
   rol: "Desarrollador Web & Apps",
-  ubicacion: "España 🇪🇸",
+  ubicacion: "España, Malaga 🇪🇸",
   enfoque: ["Frontend moderno", "APIs", "Apps móviles", "UX/UI"],
-  actualmenteAprendiendo: ["TypeScript avanzado", "Arquitectura de software", "IA aplicada al desarrollo"],
+  actualmente_Aprendiendo: ["TypeScript avanzado", "Arquitectura de software", "IA aplicada al desarrollo"],
   filosofia: "Primero que funcione, luego que sea elegante, siempre que sea mantenible.",
   cafeinaNivel: "☕☕☕ (imprescindible)"
 };
