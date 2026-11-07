@@ -1,5 +1,5 @@
 <!-- ============================================================
-  PERFIL DE GITHUB - DIEGO | Desarrollador Web y de Aplicaciones
+  PERFIL DE GITHUB - DIEGO | Desarrollador Web y Aplicaciones
   Sustituye TU_USUARIO por tu nombre de usuario de GitHub
   y completa el portfolio y el correo marcados con TU_...
 ============================================================ -->
