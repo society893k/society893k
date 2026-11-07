@@ -7,7 +7,13 @@
 <!-- ===== CABECERA ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hola%2C%20soy%20Diego&fontSize=55&fontAlignY=38&desc=Desarrollador%20Web%20%26%20de%20Aplicaciones&descAlignY=60&descSize=22&animation=fadeIn" alt="Cabecera" width="100%" />
+
+  <img src="./assets/header.gif" alt="Diego - Desarrollador Web y de Apps" width="100%" />
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6C8CFF&center=true&vCenter=true&width=600&lines=%3C+Frontend+%2F+%3E;%7B+Backend+%7D;%5B+Apps+m%C3%B3viles+%5D;Transformo+ideas+en+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6C8CFF&center=true&vCenter=true&width=700&lines=Construyo+experiencias+web+r%C3%A1pidas+y+accesibles+%F0%9F%9A%80;Desarrollo+apps+m%C3%B3viles+y+multiplataforma+%F0%9F%93%B1;Del+dise%C3%B1o+al+despliegue%2C+de+principio+a+fin+%E2%9C%A8;C%C3%B3digo+limpio.+Productos+con+prop%C3%B3sito.+%F0%9F%92%A1" alt="Typing SVG" />
@@ -15,8 +21,8 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=6C8CFF&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=for-the-badge&logo=github&color=8B5CF6)
+![Visitas](https://komarev.com/ghpvc/?username=society893k&label=Visitas%20al%20perfil&color=6C8CFF&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/society893k?label=Seguidores&style=for-the-badge&logo=github&color=8B5CF6)
 ![Estado](https://img.shields.io/badge/Disponible%20para%20proyectos-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
@@ -31,7 +37,7 @@
 const diego = {
   rol: "Desarrollador Web & Apps",
   ubicacion: "España 🇪🇸",
-  enfoque: ["Frontend moderno", "APIs robustas", "Apps móviles", "UX/UI"],
+  enfoque: ["Frontend moderno", "APIs", "Apps móviles", "UX/UI"],
   actualmenteAprendiendo: ["TypeScript avanzado", "Arquitectura de software", "IA aplicada al desarrollo"],
   filosofia: "Primero que funcione, luego que sea elegante, siempre que sea mantenible.",
   cafeinaNivel: "☕☕☕ (imprescindible)"
@@ -48,7 +54,6 @@ const diego = {
 ### 🌱 Aprendiendo y explorando
 
 - 🧠 Patrones de diseño y arquitectura limpia
-- 🧪 Testing (unitario, integración y e2e)
 - 🤖 Integración de IA en productos reales
 
 ### 🤝 Busco
@@ -64,34 +69,27 @@ const diego = {
 ### 🎨 Frontend
 
 <p align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="48" height="48"/>
 </p>
 
 ### ⚙️ Backend y APIs
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/>
+
 </p>
 
 ### 📱 Aplicaciones móviles y multiplataforma
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="48" height="48"/>
@@ -101,10 +99,8 @@ const diego = {
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" height="48"/>
 </p>
 
 ### ☁️ DevOps y herramientas
@@ -113,14 +109,12 @@ const diego = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48"/>
 </p>
 
-> 💡 *Borra los iconos de las tecnologías que no uses: un perfil honesto y enfocado impresiona más que una lista interminable.*
+
 
 ---
 
@@ -128,16 +122,16 @@ const diego = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=society893k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=society893k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+<img src="https://streak-stats.demolab.com/?user=society893k&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trofeos" />
+
 
 </div>
 
@@ -149,15 +143,15 @@ const diego = {
 
 | Proyecto | Descripción | Tecnologías |
 |:--|:--|:--|
-| 🌐 **[Mi Portfolio](https://github.com/TU_USUARIO/portfolio)** | Portfolio personal responsive con animaciones y modo oscuro | `Next.js` `TypeScript` `Tailwind` |
-| 🛒 **[Tienda Online](https://github.com/TU_USUARIO/tienda)** | E-commerce completo con carrito, pagos y panel de administración | `React` `Node.js` `PostgreSQL` |
-| 📱 **[App de Tareas](https://github.com/TU_USUARIO/app-tareas)** | App móvil multiplataforma con sincronización en la nube | `Flutter` `Firebase` |
-| 🔌 **[API REST](https://github.com/TU_USUARIO/api-rest)** | API documentada con autenticación JWT y tests automatizados | `Node.js` `Express` `MongoDB` |
+| 🌐 **[Mi Portfolio](https://github.com/society893k/portfolio)** | Portfolio personal responsive con animaciones y modo oscuro | `Next.js` `TypeScript` `Tailwind` |
+| 🛒 **[Tienda Online](https://github.com/society893k/tienda)** | E-commerce completo con carrito, pagos y panel de administración | `React` `Node.js` `PostgreSQL` |
+| 📱 **[App de Tareas](https://github.com/society893k/app-tareas)** | App móvil multiplataforma con sincronización en la nube | `Flutter` `Firebase` |
+| 🔌 **[API REST](https://github.com/society893k/api-rest)** | API documentada con autenticación JWT y tests automatizados | `Node.js` `Express` `MongoDB` |
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" /></a>
-<a href="https://github.com/TU_USUARIO/tienda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=tienda&theme=tokyonight&hide_border=true" alt="Tienda" /></a>
+<a href="https://github.com/society893k/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=society893k&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" /></a>
+<a href="https://github.com/society893k/tienda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=society893k&repo=tienda&theme=tokyonight&hide_border=true" alt="Tienda" /></a>
 
 </div>
 
@@ -169,7 +163,7 @@ const diego = {
 - 📲 **Apps móviles** para Android e iOS con una sola base de código
 - 🔗 **APIs e integraciones** con servicios de terceros y pasarelas de pago
 - ♻️ **Mejora y refactorización** de proyectos existentes
-- 🎨 **Implementación de diseños** de Figma fieles al píxel
+-
 
 ---
 
@@ -178,7 +172,7 @@ const diego = {
 <div align="center">
 
 <a href="https://TU_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C8CFF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:society"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
@@ -190,6 +184,7 @@ const diego = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="Pie de página" width="100%" />
 
-**Hecho con ❤️ y mucho ☕ por Diego**
+**Hecho por Diego con mucho ☕**
 
 </div>
+
