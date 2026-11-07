@@ -177,14 +177,3 @@ const Diego = {
 
 **Hecho por Diego con mucho ☕☕**
 
-
-
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="Pie de página" width="100%" />
-
-**Hecho por Diego con mucho ☕**
-
-</div>
-
