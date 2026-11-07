@@ -31,7 +31,7 @@
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! Soy **Diego**, desarrollador **web y de aplicaciones** apasionado por convertir ideas en productos digitales útiles, rápidos y con buen diseño. Me muevo cómodamente tanto en el **frontend** como en el **backend**, y me gusta cuidar cada detalle: rendimiento, accesibilidad y experiencia de usuario.
+¡Hola! Soy **Diego**, desarrollador **web y aplicaciones** apasionado por convertir ideas en productos digitales útiles, rápidos y con buen diseño. Me muevo cómodamente tanto en el **frontend** como en el **backend**, y me gusta cuidar cada detalle: rendimiento, accesibilidad y experiencia de usuario.
 
 ```js
 const Diego = {
