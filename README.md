@@ -161,7 +161,7 @@ const Diego = {
 
 <div align="center">
 
-<a href="https://TU_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C8CFF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/society893k" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C8CFF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:society"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
