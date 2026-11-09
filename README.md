@@ -172,7 +172,7 @@ const Diego = {
 
 <br/>
 
-<img src="https://github.com/society893k/media/v1.Y2lkPTc5MGI3NjExdWQweTRodTh5OHZ3c250MTlkMXRscGVicXgzbDNyMW5mNjhtZ2xreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Pie de página" width="50%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RoNWduazYzdmY3M24xMm1kd3NldjdmaWZycmJxaGpwZWJ5dGd0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif/media/v1.Y2lkPTc5MGI3NjExdWQweTRodTh5OHZ3c250MTlkMXRscGVicXgzbDNyMW5mNjhtZ2xreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Pie de página" width="50%" />
 
 
 <h2> Hecho por Diego con mucho ☕☕ </h2>
